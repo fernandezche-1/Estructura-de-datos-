@@ -1,4 +1,4 @@
-Este programa en Python implementa un sistema de control de ventas mensuales utilizando una matriz bidimensional (arreglo 3x12).
+Este programa en Python (departamentos.py) implementa un sistema de control de ventas mensuales utilizando una matriz bidimensional (arreglo 3x12).
 Permite registrar, consultar, eliminar y visualizar las ventas de tres departamentos a lo largo de doce meses del año.
 
 Los departamentos considerados son:
